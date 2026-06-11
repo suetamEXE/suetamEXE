@@ -2,6 +2,10 @@
   <img src="sonic.gif" alt="Banner Animado do Sonic" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suetamEXE&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
+</p>
+
 # Opa! Prazer em te ver por aqui. 👋
 
 ### Sou o Matheus Yudi, faço Ciência da Computação e pretendo ser um desenvolvedor full stack!
