@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="banner.gif" alt="Banner Animado" width="100%">
+  <img src="sonic.giff" alt="Banner do Sonic" width="100%">
 </p>
+
+
 # Opa! Prazer em te ver por aqui. 👋
 
 ### Sou o Matheus Yudi, faço Ciência da Computação e pretendo ser um desenvolvedor full stack!
