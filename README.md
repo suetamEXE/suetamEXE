@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=slice&color=007ACC&height=200&section=header&text=Matheus%20Yudi&fontSize=50&animation=twinkling" width="100%" />
+  <img src="sonic.gif" alt="Banner Animado do Sonic" width="100%">
 </p>
 
 # Opa! Prazer em te ver por aqui. 👋
