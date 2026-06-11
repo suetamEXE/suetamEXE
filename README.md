@@ -1,5 +1,6 @@
-
-
+<p align="center">
+  <img src="Kattodd_y_pindown.io_1781136706.gif" alt="Banner Animado" width="100%">
+</p>
 
 # Opa! Prazer em te ver por aqui. 👋
 
