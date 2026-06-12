@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=Olá,%20sou%20o%20Matheus!&fontSize=70&animation=fadeIn" width="100%" />
+
 <p align="center">
   <img src="sonic.gif" alt="Banner Animado do Sonic" width="100%">
 </p>
