@@ -2,15 +2,6 @@
   <img src="sonic.gif" alt="Banner Animado do Sonic" width="100%">
 </p>
 
----
-
-### 🐍 Meu Histórico de Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suetameXE/suetameXE/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suetameXE/suetameXE/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/suetameXE/suetameXE/output/github-contribution-grid-snake.svg">
-</picture>
 # Opa! Prazer em te ver por aqui. 👋
 
 ### Sou o Matheus Yudi, faço Ciência da Computação e pretendo ser um desenvolvedor full stack!
@@ -34,5 +25,11 @@ Estou sempre estudando e criando alguma coisa  e estou à procura de oportunidad
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suetameXE/suetameXE/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suetameXE/suetameXE/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/suetameXE/suetameXE/output/github-contribution-grid-snake.svg">
+</picture>
 
 
