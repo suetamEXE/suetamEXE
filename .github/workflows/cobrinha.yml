@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -16,6 +16,10 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      # Esse é o passo novo que resolve o erro da foto!
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
       - name: Gerar a cobrinha
         uses: Platane/snk/svg-only@v3
         with:
